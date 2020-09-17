@@ -1,4 +1,4 @@
 --index=https://pypi.python.org/simple
-robotframework==3.0.4
+robotframework==3.2
 robotframework-sshlibrary==3.2.1
 docutils==0.12
